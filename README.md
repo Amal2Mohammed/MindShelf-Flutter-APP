@@ -21,7 +21,13 @@ The application provides separate experiences for readers and writers, allowing 
 
 ## 📱 Application Preview
 
-Screenshots of the application will be added here.
+<p align="center">
+  <img src="01-welcome.png" width="180" alt="Welcome Screen">
+  <img src="02-Role-Selection.png" width="180" alt="Role Selection">
+  <img src="03-writer-registration.png" width="180" alt="Writer Registration">
+  <img src="04-writer-library.png" width="180" alt="Writer Library">
+  <img src="05-add-story.png" width="180" alt="Add Story">
+</p>
 
 ## 🚀 Running the Project
 
