@@ -1,16 +1,32 @@
-# my_app
+# 📚 MindShelf
 
-A new Flutter project.
+MindShelf is a Flutter-based mobile application prototype designed as a digital library platform that connects readers and writers.
 
-## Getting Started
+The application provides separate experiences for readers and writers, allowing users to explore digital content while giving writers tools to manage and publish their stories.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Reader and Writer user roles
+- User registration and login interface
+- Writer dashboard
+- Create and edit stories
+- Digital library interface
+- Responsive mobile user interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Android Studio
+
+## 📱 Application Preview
+
+Screenshots of the application will be added here.
+
+## 🚀 Running the Project
+
+1. Clone the repository.
+2. Install Flutter dependencies:
+   ```bash
+   flutter pub get
+  3- flutter run
